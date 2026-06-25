@@ -1,0 +1,6 @@
+.tools/jdk21/
+.tools/jdk21.zip
+build/kk_third_raw.json
+build/
+out/
+*.class
