@@ -1,4 +1,4 @@
-# 不提供Luraph相关技术支持和脚本,无论是否付费
+#Luraph
 
 
 # Luraph_Deobfuscator
