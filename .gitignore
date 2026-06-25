@@ -4,3 +4,4 @@ build/kk_third_raw.json
 build/
 out/
 *.class
+.tools/unluac54/
